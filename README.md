@@ -75,5 +75,5 @@
 
 ## 라이선스
 
-MIT License (또는 프로젝트 목적에 맞는 다른 라이선스 지정)
+MIT License
 
